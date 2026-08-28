@@ -1,5 +1,5 @@
-# javascript
+# Javascript
 
 01 - variables  
-02 - data types
-03 - type conversion and operators
+02 - data types  
+03 - type conversion and operators  
